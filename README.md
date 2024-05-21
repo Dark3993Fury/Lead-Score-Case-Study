@@ -65,7 +65,7 @@ This summary report provides an in-depth overview of the project, covering:
 The report is structured to offer a comprehensive understanding of the project from start to finish.
 
 
-Conclusion
+**Conclusion**
 
 This logistic regression model serves as a strategic tool for X Education to enhance its lead conversion process. By leveraging key features and achieving a high conversion rate, the model offers significant business value in optimizing sales efforts and improving overall efficiency.
 
