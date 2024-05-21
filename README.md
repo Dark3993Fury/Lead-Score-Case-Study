@@ -13,6 +13,8 @@ Repository Structure
 Project Overview
 
 X Education is an online education company that offers courses to business professionals. The company advertises its courses on various websites and search engines like Google. After visiting the website, users can explore available courses, complete registration forms, or watch videos. Users who provide their phone number or email address by filling out a form are categorized as leads. The sales team then follows up with these leads through calls and emails. The goal is to develop a logistic regression model that predicts the probability of lead conversion to improve the company's lead conversion rate.
+
+
 ![image](https://github.com/Dark3993Fury/Lead-Score-Case-Study/assets/152001253/4644209f-14e2-4457-b381-d37130f609e3)
 
 
